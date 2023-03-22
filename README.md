@@ -28,9 +28,12 @@ Steps to install and run:
 - sails new sails-project
 - cd sails-project
 - sails lift (http://localhost:1337/)
+- sails generate controller foo (To generate a new controller)
 
 Git:
 
 - git init .
 - git remote add origin https://github.com/sreegithub19/sails-project.git
--
+- git add . && git commit -m "C" && git push origin master
+
+Vercel:
